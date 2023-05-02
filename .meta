@@ -2,6 +2,6 @@
   "projects": {
     "dnc-IaC-cluster": "https://github.com/juan-carlos-trimino/dnc-IaC-cluster.git",
     "dnc-RabbitMQ": "https://github.com/juan-carlos-trimino/dnc-RabbitMQ.git",
-    "dnc-blob-storage": "https://github.com/juan-carlos-trimino/dnc-blob-storage.git"
+    "dnc-storage": "https://github.com/juan-carlos-trimino/dnc-storage.git"
   }
 }
