@@ -1,3 +1,4 @@
+# $ meta git clone https://github.com/juan-carlos-trimino/dnc-meta-repo.git
 {
   "projects": {
     "dnc-IaC-cluster": "https://github.com/juan-carlos-trimino/dnc-IaC-cluster.git",
