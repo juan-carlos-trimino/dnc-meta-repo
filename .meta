@@ -3,6 +3,7 @@
     "dnc-IaC-cluster": "https://github.com/juan-carlos-trimino/dnc-IaC-cluster.git",
     "dnc-RabbitMQ": "https://github.com/juan-carlos-trimino/dnc-RabbitMQ.git",
     "dnc-storage": "https://github.com/juan-carlos-trimino/dnc-storage.git",
-    "dnc-storage-cs": "https://github.com/juan-carlos-trimino/dnc-storage-cs.git"
+    "dnc-storage-cs": "https://github.com/juan-carlos-trimino/dnc-storage-cs.git",
+    "dnc-redis": "https://github.com/juan-carlos-trimino/dnc-redis.git"
   }
 }
