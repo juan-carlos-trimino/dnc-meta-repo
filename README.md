@@ -15,8 +15,8 @@ You will need the following to successfully deploy the application:<br>
 - S3 storage.
 
 Finally, if you are running the demo on **RedHat OpenShift**, you will need to do the following:
-- Requires to use the RedHat image for the .NET Core runtime.
-- Add the following line to the **.csproj** file:<br>
+- Use the .NET Runtime image from [RedHat](https://catalog.redhat.com/software/containers/rhel8/dotnet-70-runtime/633c2b337a32f2ea2eb51dec).
+- Add the line below to the **.csproj** file:<br>
   ```
   <PropertyGroup>
     …
