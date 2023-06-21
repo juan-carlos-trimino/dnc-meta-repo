@@ -4,6 +4,7 @@ A project using .NET Core/C# with Linux containers
 This is a demo on how to use .NET Core/C# in a Linux environment. The demo consists of five repos using RabbitMQ, Redis, and two S3 clients (written in C# and Go) using blog storage.
 
 To download all repos, please execute the command below:<br>
+(Using **$** to represent the command prompt.)
 ```
 $ meta git clone https://github.com/juan-carlos-trimino/dnc-meta-repo.git
 ```
